@@ -28,7 +28,6 @@ public class Exercicio13 {
 		System.out.println("Escreva a terceira nota: ");
 		terceiraNota = scanner.nextInt();
         
-        
 		mediaFinal = ( primeiraNota * 2 + segundaNota * 3 + terceiraNota * 5 ) / 10 ;
 		System.out.println("A média final é de:" + mediaFinal);
 				
