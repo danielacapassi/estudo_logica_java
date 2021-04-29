@@ -22,7 +22,7 @@ public class exercicio20 {
 		System.out.println("Digite o segundo valor: ");
 		segundoValor = scanner.nextInt();
 
-		if (primeiroValor > segundoValor) {
+		if (primeiroValor < segundoValor) {
 			System.out.println(primeiroValor + "," + segundoValor);
 		} else {
 			System.out.println(segundoValor + "," + primeiroValor);
