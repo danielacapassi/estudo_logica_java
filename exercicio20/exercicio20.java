@@ -27,6 +27,7 @@ public class exercicio20 {
 		} else {
 			System.out.println(segundoValor + "," + primeiroValor);
 		}
+		
 	}
 
 }
