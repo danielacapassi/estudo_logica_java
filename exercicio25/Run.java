@@ -9,6 +9,6 @@ public class Run {
 		exercicio.calcularSaldo(200, 80, 100);
 		
 		//Por ser estático o método pode ser chamado sem uma instância
-		//Exercicio25.saldoAtual(1000, 1501);
+		Exercicio25.calcularSaldo(300, 70 , 300);
 }
 }
